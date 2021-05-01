@@ -5,14 +5,14 @@
  h4 {text-decoration; underline;}
  h1 {background-color:white;text-align:center;}
  h1 {font-family:Palatino Linotype,serif;}
- h1{color:purple;}
+ h1{color:#FFF0F5}
  h1{text-shadow: 2px 2px;}
  img {border-radius: 20px;}
  img {margin-left: 50px}
- body {background-color:#FFDD33;}
- th {background-color:#FFDD33;}
+ body {background-color:#FFF0F5;}
+ th {background-color:#E6E6FA;}
       font-family: Palatino, serif;color:white;
- td {background-color:#FFDD33;color:white;}
+ td {background-color:#E6E6FA;color:white;}
  table {margin: 25px 50px 25px 50px}
  table {border-radius: 10px}
  p {font-family: Palatino, serif;}
