@@ -1,0 +1,20 @@
+<style>
+ h4 {margin: 25px 50px 25px 50px;}
+ h1 {margin: 25px 50px 25px 50px;}
+ p  {margin: 25px 50px 25px 50px;}
+ h4 {text-decoration; underline;}
+ h1 {background-color:white;text-align:center;}
+ h1 {font-family:Palatino Linotype,serif;}
+ h1{color:#DED7FC}
+ h1{text-shadow: 2px 2px;}
+ img {border-radius: 20px;}
+ img {margin-left: 50px}
+ body {background-color:#FFDD33;}
+ th {background-color:#FFDD33;}
+      font-family: Palatino, serif;color:white;
+ td {background-color:#FFDD33;color:white;}
+ table {margin: 25px 50px 25px 50px}
+ table {border-radius: 10px}
+ p {font-family: Verdana, serif;}
+ p {color: white;}
+</style>
